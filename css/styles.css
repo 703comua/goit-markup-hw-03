@@ -134,6 +134,7 @@ body {
 
 .address__link {
 	color: #434455;
+	padding: 24px 0;
 }
 
 .address__link:hover,
